@@ -1,6 +1,4 @@
-# ESRIapp
-Playing around with the outline
-# App Title
+# Elevated Oasis 
 
 ## Mission Statement
 
@@ -19,14 +17,15 @@ Elevated oasis is designed to help the user calculate the cost of ownership, and
 
 ## App Description
 ## Usage Instructions
+Browse through the 3D map of Vancouver to find a location of your choosing. Click on a building for further information about whether this building is suitable for green roof development. 
 
 ![alt text](https://lh4.googleusercontent.com/VcGrncmokM_2CMKzjcv_Sr3UtfugfVwNyzPUL9u0CD5ofbriZfqEQj5Lc0SbmrCA2S_z0ZkzLSGqNw=w1600-h720)
 
 
 ## Data Sources
 1. Vancouver Open Data Catalog
-* LiDAR 2013
-* Building footprints
+⋅⋅⋅LiDAR 2013
+⋅⋅⋅Building footprints
 
 ## Limitations
 During the building vectorization it was not possible to refine buildings into individual features, given the time constraints. As a result, the features derived from the .las files are in groups based on buildings that are within three meters of one another – according to the classified .las file. This effects the output of the rooftop area
