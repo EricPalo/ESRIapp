@@ -32,8 +32,8 @@ Elevated oasis is designed to help the user calculate the cost of ownership, and
 During the building vectorization it was not possible to refine buildings into individual features, given the time constraints. As a result, the features derived from the .las files are in groups based on buildings that are within three meters of one another – according to the classified .las file. This effects the output of the rooftop area
 
 ## Future Improvments
-⋅⋅1.Spending a greater amount of time refining building vectorization
-⋅⋅2.Increase size of study area
+..* Spending a greater amount of time refining building vectorization
+..* Increase size of study area
 
 
 ## Licensing information 
