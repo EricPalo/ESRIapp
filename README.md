@@ -21,9 +21,8 @@ Elevated oasis is designed to help the user calculate the cost of ownership, and
 ## Usage Instructions
 
 ### Workflow:
-![alt text][workflow]
+![alt text](https://drive.google.com/file/d/19uUudAw3ETl5NMX3_z7ljN0nntzYl6nB/view)
 
-[workflow]:https://drive.google.com/file/d/19uUudAw3ETl5NMX3_z7ljN0nntzYl6nB/view
 
 ## Data Sources
 * Vancouver Open Data Catalog
