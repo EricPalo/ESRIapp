@@ -20,7 +20,7 @@ Elevated oasis is designed to help the user calculate the cost of ownership, and
 ## App Description
 ## Usage Instructions
 
-###Workflow
+### Workflow:
 ![alt text][workflow]
 
 [workflow]:https://drive.google.com/file/d/19uUudAw3ETl5NMX3_z7ljN0nntzYl6nB/view
