@@ -21,7 +21,7 @@ Elevated oasis is designed to help the user calculate the cost of ownership, and
 ## Usage Instructions
 
 ### Workflow
-![alt text](https://drive.google.com/file/d/1SlnOsFw2gIaCk6sKvtuStIMxmdgkPMPg/preview "Workflow")
+![alt text](https://lh4.googleusercontent.com/VcGrncmokM_2CMKzjcv_Sr3UtfugfVwNyzPUL9u0CD5ofbriZfqEQj5Lc0SbmrCA2S_z0ZkzLSGqNw=w1600-h720)
 
 
 ## Data Sources
