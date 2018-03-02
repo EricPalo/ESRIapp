@@ -23,9 +23,9 @@ Browse through the 3D map of Vancouver to find a location of your choosing. Clic
 
 
 ## Data Sources
-1. Vancouver Open Data Catalog
-⋅⋅⋅LiDAR 2013
-⋅⋅⋅Building footprints
+* Vancouver Open Data Catalog
+  * LiDAR 2013
+  * Building footprints
 
 ## Limitations
 During the building vectorization it was not possible to refine buildings into individual features, given the time constraints. As a result, the features derived from the .las files are in groups based on buildings that are within three meters of one another – according to the classified .las file. This effects the output of the rooftop area
